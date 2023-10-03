@@ -93,6 +93,11 @@
     text-align: left;
  }
 
+ #sideBar ul {
+    padding: 1rem;
+    background: black;
+    color: white;
+ }
  #sideBar li {
     padding-bottom: 10px;
  }
